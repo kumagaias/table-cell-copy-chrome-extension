@@ -1,0 +1,9 @@
+.on_mouse {
+  background-color: #ffefef !important;
+  user-select: none;
+  -webkit-user-select: none;
+}
+#on_mouse_table {
+  user-select: none;
+  -webkit-user-select: none;
+}
