@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
   "name": "table_cell_copy",
-  "version": "1.0.3",
-  "description": "a copying table cell tool with 'ctrl + left click' like FireFox.",
+  "version": "1.0.4",
+  "description": "A copying table cell tool with 'ctrl + left click' like FireFox.",
   "icons" : {
     "48": "img/icon.png"
   },
